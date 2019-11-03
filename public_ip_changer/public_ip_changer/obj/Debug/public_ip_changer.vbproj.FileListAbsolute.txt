@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\bin\Debug\public_ip_changer.exe.config
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\bin\Debug\public_ip_changer.exe
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\bin\Debug\public_ip_changer.pdb
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\bin\Debug\public_ip_changer.xml
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\obj\Debug\public_ip_changer.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\obj\Debug\public_ip_changer.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\obj\Debug\public_ip_changer.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\obj\Debug\public_ip_changer.exe
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\obj\Debug\public_ip_changer.xml
+c:\users\user\documents\visual studio 2013\Projects\public_ip_changer\public_ip_changer\obj\Debug\public_ip_changer.pdb
